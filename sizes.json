@@ -1,0 +1,928 @@
+{
+    "Response": {
+        "product": {
+            "occasion": [
+                {
+                    "displayName": "Outdoor"
+                }
+            ],
+            "longDescription": "Want to look stylish while conquering summits? Go for The Wolverine Luton Mid steel toe hiking boot. A waterproof full-grain leather upper, moisture-controlling mesh and seam-sealed profile, full-cushioned insole, lightweight EVA midsole, stabilizing nylon shank, and grippy lugged rubber sole make this lace-up boot ideal for your next expedition.",
+            "toeShape": {
+                "displayName": "Round"
+            },
+            "heelHeight": {
+                "displayName": "Flat"
+            },
+            "displayCompareAtPrice": true,
+            "displayName": "Luton Mid Steel Toe Hiking Boot - Men's",
+            "styleAssociatedProducts": [],
+            "nonMemberMaxPrice": 79.99,
+            "isActive": true,
+            "defaultColorCode": "001",
+            "isClearance": false,
+            "fulfillmentMode": "ANY",
+            "showSize": true,
+            "dswBrand": {
+                "displayNameDefault": "Wolverine"
+            },
+            "afterPayInstallmentPrice": 20,
+            "id": "579456",
+            "isPreOrder": false,
+            "nonMemberMSRP": 115,
+            "showWidth": true,
+            "parentCategories": [
+                {
+                    "displayName": "Hiking Boots",
+                    "description": null,
+                    "defaultParentCategory": null,
+                    "id": "dsw12cat5030027",
+                    "type": "category"
+                },
+                {
+                    "displayName": "Combat & Lace-up Boots",
+                    "description": null,
+                    "defaultParentCategory": null,
+                    "id": "dsw12cat5030024",
+                    "type": "category"
+                }
+            ],
+            "bullets": [
+                "Waterproof full-grain leather upper",
+                "Lace-up closure",
+                "Round steel toe",
+                "Synthetic lining",
+                "Cushioned footbed",
+                "Advance comfort EVA midsole",
+                "Rubber lug sole",
+                "Imported",
+                ""
+            ],
+            "productitemtype": [
+                {
+                    "displayName": "Boots"
+                }
+            ],
+            "childSKUs": [
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373298",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "7",
+                        "sizeCode": 7
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M007.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373304",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "7.5",
+                        "sizeCode": 7.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M007.5",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373311",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "8",
+                        "sizeCode": 8
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M008.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 2,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373328",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "8.5",
+                        "sizeCode": 8.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M008.5",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 2,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373335",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "9",
+                        "sizeCode": 9
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M009.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373342",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "9.5",
+                        "sizeCode": 9.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M009.5",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373359",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "10",
+                        "sizeCode": 10
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M010.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373366",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "10.5",
+                        "sizeCode": 10.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M010.5",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373373",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "11",
+                        "sizeCode": 11
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M011.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 1,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373380",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "11.5",
+                        "sizeCode": 11.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M011.5",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 5,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373397",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "12",
+                        "sizeCode": 12
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M012.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373403",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "13",
+                        "sizeCode": 13
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M013.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 4,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373410",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "14",
+                        "sizeCode": 14
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "58000000005794560010000M014.0",
+                    "dimension": {
+                        "displayName": "Medium",
+                        "dimensionCode": "M",
+                        "dimensionSeqCode": 40
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373182",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "7.5",
+                        "sizeCode": 7.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW007.5",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373199",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "8",
+                        "sizeCode": 8
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW008.0",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373205",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "8.5",
+                        "sizeCode": 8.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW008.5",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 3,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373212",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "9",
+                        "sizeCode": 9
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW009.0",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 5,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373229",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "9.5",
+                        "sizeCode": 9.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW009.5",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 3,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373236",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "10",
+                        "sizeCode": 10
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW010.0",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 1,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373243",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "10.5",
+                        "sizeCode": 10.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW010.5",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 1,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373250",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "11",
+                        "sizeCode": 11
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW011.0",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 3,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373267",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "11.5",
+                        "sizeCode": 11.5
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW011.5",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 4,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373274",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "12",
+                        "sizeCode": 12
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW012.0",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 0,
+                    "isExclusiveLicense": false
+                },
+                {
+                    "isClearanceItem": false,
+                    "color": {
+                        "displayName": "Black",
+                        "colorCode": "001"
+                    },
+                    "originalPrice": 79.99,
+                    "nonMemberPrice": 79.99,
+                    "upc": "195018373281",
+                    "isDropShipItem": false,
+                    "size": {
+                        "displayName": "13",
+                        "sizeCode": 13
+                    },
+                    "materials": [
+                        {
+                            "displayName": "Leather"
+                        },
+                        {
+                            "displayName": "Waterproof/Water Resistant"
+                        }
+                    ],
+                    "isPreOrderItem": false,
+                    "msrp": 115,
+                    "id": "5800000000579456001000XW013.0",
+                    "dimension": {
+                        "displayName": "Extra Wide",
+                        "dimensionCode": "XW",
+                        "dimensionSeqCode": 60
+                    },
+                    "skuStockLevel": 4,
+                    "isExclusiveLicense": false
+                }
+            ],
+            "spinColorCode": "001",
+            "productBadge": null,
+            "hasAnimatedImage": false,
+            "productTypeWeb": "shoe",
+            "productStockLevel": 38,
+            "expeditedRestricted": false,
+            "defaultSKU": {
+                "isClearanceItem": false,
+                "color": {
+                    "displayName": "Black",
+                    "colorCode": "001"
+                },
+                "originalPrice": 79.99,
+                "nonMemberPrice": 79.99,
+                "upc": "195018373298",
+                "isDropShipItem": false,
+                "size": {
+                    "displayName": "7",
+                    "sizeCode": 7
+                },
+                "materials": [
+                    {
+                        "displayName": "Leather"
+                    },
+                    {
+                        "displayName": "Waterproof/Water Resistant"
+                    }
+                ],
+                "isPreOrderItem": false,
+                "msrp": 115,
+                "id": "58000000005794560010000M007.0",
+                "dimension": {
+                    "displayName": "Medium",
+                    "dimensionCode": "M",
+                    "dimensionSeqCode": 40
+                },
+                "skuStockLevel": 0,
+                "isExclusiveLicense": false
+            },
+            "productGender": "Men",
+            "priceInCart": false,
+            "nonMemberMinPrice": 79.99,
+            "ancestorCategories": [
+                {
+                    "displayName": "Shoes",
+                    "id": "dsw12cat4970001"
+                },
+                {
+                    "displayName": "Boots",
+                    "id": "dsw12cat5030003"
+                },
+                {
+                    "displayName": "Combat & Lace-up Boots",
+                    "id": "dsw12cat5030024"
+                },
+                {
+                    "displayName": "Hiking Boots",
+                    "id": "dsw12cat5030027"
+                }
+            ],
+            "isGWPItem": false,
+            "style": [
+                {
+                    "displayName": "Lug"
+                }
+            ],
+            "currencyCode": "USD"
+        }
+    }
+}
